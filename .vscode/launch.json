@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - HashMapDemo",
+            "request": "launch",
+            "mainClass": "com.sun.map.HashMapDemo",
+            "projectName": "javaContainer_3e4c572d"
+        }
+    ]
+}
